@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, there! I’m Vaishnavi, a Computer Engineer who graduated from Pune University.
+
 
 <!--
 **powar02vaishnavi/powar02vaishnavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
