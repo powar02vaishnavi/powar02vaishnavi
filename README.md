@@ -64,7 +64,7 @@ Here are a few projects I've been working on:
     Api Used
       OMDB API
       Streaming Availability API
-- [**Network Intrusion Detection System using ML**]([https://github.com/your-username/project2](https://github.com/powar02vaishnavi/IntrusionDetectionSystem)):
+- [**Network Intrusion Detection System using ML**](https://github.com/powar02vaishnavi/IntrusionDetectionSystem):
  Intrusion Detection Web App Based On Python Flask and Trained ML Models Based On SVM and Random Forest Algorithms Which are Trained Using KDD Dataset
 
 
