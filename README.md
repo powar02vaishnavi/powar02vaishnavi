@@ -58,12 +58,17 @@ I'm Vaishnavi Vasudev Powar, a passionate software developer with a love for cre
 
 ## 📂 Projects
 Here are a few projects I've been working on:
-
+- [**SimpleLoginForm**](https://github.com/powar02vaishnavi/SimpleLoginForm-/tree/main):
+a simple and stylish login form created using HTML and CSS. The form features a transparent login box design that is visually appealing and user-friendly.
+![Login Form Demo](https://github.com/powar02vaishnavi/SimpleLoginForm-/blob/main/Screenshot.png)
 - [**TV Time**](https://github.com/powar02vaishnavi/tvtime):
  A Movie Watchlist Project using OMDB an IMDb API, Streaming Availability API, Java Spring Boot and Angular
     Api Used
       OMDB API
       Streaming Availability API
+  ![Results](https://github.com/powar02vaishnavi/tvtime/raw/main/assets/results.png)
+  ![Favorite List](https://github.com/powar02vaishnavi/tvtime/raw/main/assets/favorite_list.png)
+  ![Search History](https://github.com/powar02vaishnavi/tvtime/blob/main/assets/search_history_list.png)
 - [**Network Intrusion Detection System using ML**](https://github.com/powar02vaishnavi/IntrusionDetectionSystem):
  Intrusion Detection Web App Based On Python Flask and Trained ML Models Based On SVM and Random Forest Algorithms Which are Trained Using KDD Dataset
 
