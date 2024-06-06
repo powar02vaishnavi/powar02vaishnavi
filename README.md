@@ -59,7 +59,7 @@ I'm Vaishnavi Vasudev Powar, a passionate software developer with a love for cre
 ## 📂 Projects
 Here are a few projects I've been working on:
 
-- [**TV Time**]([https://github.com/your-username/project1](https://github.com/powar02vaishnavi/tvtime)):
+- [**TV Time**](https://github.com/powar02vaishnavi/tvtime):
  A Movie Watchlist Project using OMDB an IMDb API, Streaming Availability API, Java Spring Boot and Angular
     Api Used
       OMDB API
